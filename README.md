@@ -4,7 +4,7 @@ Jika Anda mengetahui bagaimana menggunakan [markdown](https://www.markdownguide.
 
 Berikut adalah contoh-contoh pembuatan artikel di Parsinta.
 
-> Anda bisa langsung melihat hasil dari contoh ini [Panduan Menulis Artikel di Parsinta](https://parsinta.com/articles/panduan-menulis-artikel-di-parsinta-5i3r0#content-tabel).
+> Anda bisa langsung melihat hasil dari contoh ini [Panduan Menulis Artikel di Parsinta](https://parsinta.com/articles/panduan-menulis-artikel-di-parsinta-5i3r0).
 
 ## Code
 
