@@ -4,7 +4,7 @@ Jika Anda mengetahui bagaimana menggunakan [markdown](https://www.markdownguide.
 
 Berikut adalah contoh-contoh pembuatan artikel di Parsinta.
 
-> Anda bisa langsung melihat hasil dari contoh ini [di sini](https://parsinta.com/articles/panduan-menulis-artikel-di-parsinta-5i3r0).
+> Anda bisa langsung melihat hasil dari contoh ini di sini.
 
 ## Code
 
@@ -167,8 +167,6 @@ Jika Anda ingin membuat link, simpel saja dengan cara [Parsinta](https://parsint
 ### Youtube Embed
 Berikut adalah contoh embed video dari youtube Parsinta.
 [Volt untuk Laravel Livewire](https://youtu.be/CcH_gF6QLxU)
-
-Kedua nya bisa.
 
 ### Tabel
 
